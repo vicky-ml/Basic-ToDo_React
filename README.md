@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![alt text](https://github.com/vicky-ml/Basic-ToDo_React/blob/master/Capture.JPG)
+
 ## Available Scripts
 
 In the project directory, you can run:
